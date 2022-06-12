@@ -1,4 +1,4 @@
-# publications
+# Publications
 
 Nicholas DiGennaro's published papers.
 
